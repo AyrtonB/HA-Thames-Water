@@ -1,0 +1,21 @@
+{
+  "domain": "thames_water",
+  "name": "Thames Water",
+  "integration_type": "hub",
+  "version": "1.0",
+  "config_flow": true,
+  "requirements": [
+    "selenium",
+    "brotli",
+    "thameswaterclient"
+  ],
+  "dependencies": [
+    "recorder"
+  ],
+  "iot_class": "cloud_polling",
+  "codeowners": [
+    "@ale770"
+  ],
+  "documentation": "hhttps://github.com/ale770/ha-thames-water",
+  "issue_tracker": "hhttps://github.com/ale770/ha-thames-water/issues"
+}
