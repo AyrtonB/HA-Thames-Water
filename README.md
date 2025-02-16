@@ -19,7 +19,7 @@ The integration was created recently, so it may contain bugs. Proceed with cauti
 ### Installation through HACS
 
 1. Install the custom component using the Home Assistant Community Store (HACS) by adding the Custom Repository:
-https://github.com/ayrtonbourn/HA-Thames-Water
+https://github.com/AyrtonB/HA-Thames-Water
 2. In the HACS panel, select Thames Water from the repository list and select the DOWNLOAD button.
 3. Restart HA
 4. Go to Settings > Devices & Services > Add Integration and select Thames Water.
