@@ -14,6 +14,7 @@
   ],
   "iot_class": "cloud_polling",
   "codeowners": [
+    "@AyrtonB",
     "@ale770"
   ],
   "documentation": "hhttps://github.com/ale770/ha-thames-water",
